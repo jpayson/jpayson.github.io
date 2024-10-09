@@ -1,1 +1,1 @@
-To view my portfolio click [here &rarr;](https://portfolio-template.surge.sh)
+To view my portfolio click [here &rarr;](https://jpayson.github.io/portfolio/)
