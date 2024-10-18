@@ -1,1 +1,1 @@
-To view my portfolio click [here &rarr;](https://jpayson.github.io/portfolio/)
+To view my portfolio click [here](https://jpayson.github.io/portfolio/)
